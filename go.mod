@@ -9,7 +9,7 @@ require (
 	github.com/actgardner/gogen-avro/v10 v10.2.0
 	github.com/adrianwit/xlsx v2.0.2-0.20200408043318-ca3997ba547f+incompatible
 	github.com/aws/aws-lambda-go v1.12.0
-	github.com/aws/aws-sdk-go v1.21.4
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/frankban/quicktest v1.9.0 // indirect
 	github.com/go-errors/errors v1.0.1 // indirect
 	github.com/google/uuid v1.1.4
@@ -17,7 +17,7 @@ require (
 	github.com/linkedin/goavro v2.1.0+incompatible
 	github.com/nlopes/slack v0.6.0
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/rogpeppe/fastuuid v1.2.0 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/tealeg/xlsx v1.0.5
